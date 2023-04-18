@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "100203574419",
+    "project_id": "tempo-17b12",
+    "storage_bucket": "tempo-17b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100203574419:android:27505a95afb53c9f6bc966",
+        "android_client_info": {
+          "package_name": "com.example.tempest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100203574419-b26n0n1sum3f2hjcfnqdqskvjffacqa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tempest",
+            "certificate_hash": "bebd1d64bde49729a4ce73238d5ff8c05431e949"
+          }
+        },
+        {
+          "client_id": "100203574419-3qferhulhrlj9ioer12houm00ri6irr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEf_QeTI-9Wss05Z5t6nofi5g9q-v8TCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100203574419-14lmulo8s07qfgceqg7u4no91fbffgmd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100203574419-ujlaodkrfiqgsc0gsto1i6igcrrnlcrb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tempest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
